@@ -1,0 +1,28 @@
+* {
+  text-align: center;
+  margin: 25px;
+  box-sizing: border-box;
+  border-bottom: 1px solid #eee;
+  padding: 15px;
+  text-align: center;
+}
+.Judul {
+  background-color: rgb(65, 65, 65);
+  color: white;
+  font-size: 20px;
+  width: 43.5%;
+}
+
+.isi_biodata {
+  background-color: #17aa04;
+  border: none;
+  color: white;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  width: 43.5%;
+  font-size: 18px;
+}
+.isi_biodata #gmbr1 {
+  width: 300px;
+}
